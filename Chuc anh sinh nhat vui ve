@@ -1,0 +1,202 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8158/index.html
+Subject: Chuc anh sinh nhat vui ve
+Date: Wed, 26 Mar 2025 15:31:02 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--O7LnAlk6V3MkCnVQTCvcUwgtwTs9qKVc45X49bmUSf----"
+
+
+------MultipartBoundary--O7LnAlk6V3MkCnVQTCvcUwgtwTs9qKVc45X49bmUSf----
+Content-Type: text/html
+Content-ID: <frame-6AC886392F7884C738ECF9F9416D25ED@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/index.html
+
+<html lang="vi"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-871ff5e5-3cf6-443b-bc64-e953baae3d43@mhtml.blink" /><!-- Injected code, this is not present in original code --><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Injected code, this is not present in original code --><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Chuc anh sinh nhat vui ve</title><link rel="stylesheet" href="http://localhost:8158/styles.css"></head><c-toggler style="transform: translate(2px, 392px); display: none;"></c-toggler>
+
+
+    
+    
+    
+    
+
+<body>
+
+    <div id="password-container" class="container">
+        <h2>Gợi ý mật khẩu gồm 7 chữ số gắn liền vs đồng chí😉</h2>
+        <input type="password" id="password" placeholder="Mật khẩu">
+        <button>Xác Nhận</button>
+    </div>
+
+    <div id="birthday-container" class="container" style="display: none;">
+        <h1>Chúc Mừng Sinh Nhật!</h1>
+        <p>Chúc đồng chí sinh nhật vui vẻ🎂🎉, hoàn thành tốt nhiệm vụ sớm trở về với gia đình, người thương. 🎂Chúc mừng sinh nhật!🎉Happy Birthday!  🎂Joyeux anniversaire!  🎉Alles Gute zum Geburtstag! 🎂 ¡Feliz cumpleaños! 🎉Buon compleanno! 🎂Feliz aniversário! 🎉Gefeliciteerd met je verjaardag 🎉生日快乐! (Shēngrì kuàilè) 🎂 お誕生日おめでとうございます！(Otanjobi omedetou gozaimasu) 🎉생일 축하합니다! (Saengil chukhahamnida)🎂 عيد ميلاد سعيد! (Eid milad sa'id)🎉Doğum günün kutlu olsun!Gratulerer med dage. ✂️Tillykke med fødselsdagen🎂: Wszystkiego najlepszego z okazji urodzin🎉 Šťastné a veselé narozeniny!🎂 Boldog születésnapot! 🎉Šťastné a veselé narodeniny!</p>
+        
+    </div>
+
+    
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--O7LnAlk6V3MkCnVQTCvcUwgtwTs9qKVc45X49bmUSf----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/styles.css
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: rgb(240, 248, 255); margin: 0px; }
+
+.container { text-align: center; padding: 20px; border-radius: 10px; background-color: white; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px; }
+
+input { padding: 10px; font-size: 16px; margin: 10px; border: 1px solid rgb(204, 204, 204); border-radius: 5px; }
+
+button { padding: 10px 20px; font-size: 16px; border: none; background-color: rgb(76, 175, 80); color: white; border-radius: 5px; cursor: pointer; }
+
+button:hover { background-color: rgb(69, 160, 73); }
+
+body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: rgb(0, 0, 0); color: white; margin: 0px; }
+
+.container { text-align: center; padding: 20px; border-radius: 10px; background-color: rgb(51, 51, 51); box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px; }
+
+input { padding: 10px; font-size: 16px; margin: 10px; border: 1px solid rgb(204, 204, 204); border-radius: 5px; background-color: rgb(85, 85, 85); color: white; }
+
+button { padding: 10px 20px; font-size: 16px; border: none; background-color: rgb(76, 175, 80); color: white; border-radius: 5px; cursor: pointer; }
+
+button:hover { background-color: rgb(69, 160, 73); }
+
+body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: rgb(0, 0, 0); color: white; margin: 0px; transition: background-color 0.3s; }
+
+.container { text-align: center; padding: 20px; border-radius: 10px; background-color: rgb(51, 51, 51); box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px; opacity: 0; animation: 1s ease 0s 1 normal forwards running fadeIn; }
+
+input { padding: 10px; font-size: 16px; margin: 10px; border: 1px solid rgb(204, 204, 204); border-radius: 5px; background-color: rgb(85, 85, 85); color: white; transition: background-color 0.3s, transform 0.2s ease-in-out; }
+
+input:hover { background-color: rgb(119, 119, 119); transform: scale(1.05); }
+
+button { padding: 10px 20px; font-size: 16px; border: none; background-color: rgb(76, 175, 80); color: white; border-radius: 5px; cursor: pointer; transition: background-color 0.3s, transform 0.2s ease-in-out; }
+
+button:hover { background-color: rgb(69, 160, 73); transform: scale(1.1); }
+
+@keyframes fadeIn { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+body { }
+------MultipartBoundary--O7LnAlk6V3MkCnVQTCvcUwgtwTs9qKVc45X49bmUSf----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-871ff5e5-3cf6-443b-bc64-e953baae3d43@mhtml.blink
+
+@charset "utf-8";
+
+c-toggler { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAE9JREFUOMtjYBh0gBHO+k+cSkYilcPVMpHqpIHRwIgUFERp+I8SekQ5CY8WXH7AqYWJyGglqIERV3QykaYcV7DiSSwsODw8yJIGdTPQIAQAg9gKJl7UINwAAAAASUVORK5CYII="); background-position: center center; background-repeat: no-repeat; background-size: 24px; position: fixed; top: 0px; left: 0px; height: 30px; width: 30px; background-color: rgb(255, 255, 255); transform-origin: center center; border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.4) -2px 2px 8px; z-index: 99999; opacity: 0.5; }
+
+c-object { color: rgb(153, 153, 255); text-decoration: underline; }
+
+c-toggler:active { box-shadow: rgba(0, 0, 0, 0.4) -1px 1px 4px; }
+
+c-line { display: block; }
+
+c-console { box-sizing: border-box; overflow-y: auto; position: fixed; top: 0px; left: 0px; height: 100vh; width: 100vw; background-color: rgb(49, 49, 49); z-index: 99998; color: rgb(238, 238, 238); font-family: Roboto, sans-serif; }
+
+c-console[title] { padding-top: 65px; animation: 0.1s ease 0s 1 normal none running --page-transition; }
+
+c-console br:last-of-type { display: none; }
+
+c-console textarea { color: rgb(255, 255, 255); background-color: inherit; caret-color: currentcolor !important; }
+
+c-input { display: flex; width: 100%; height: fit-content; }
+
+c-input::before { content: ">>"; margin: 0px 5px; height: 100%; }
+
+#__c-input { width: 100%; border: none; resize: none; height: 200px; position: relative; background-color: rgba(0, 0, 0, 0); overflow: visible; }
+
+#__c-input:focus { outline: none; }
+
+c-console[title]::before { position: fixed; top: 0px; left: 0px; width: 100vw; background-color: inherit; z-index: 999999; content: attr(title); display: flex; height: 44px; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 900; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; margin-bottom: 10px; color: rgb(255, 255, 255); font-size: medium; }
+
+c-message { position: relative; display: flex; border-bottom: 1px solid rgba(204, 204, 204, 0.4); margin-bottom: 35px; font-size: 0.9rem; flex-wrap: wrap; }
+
+c-code { position: relative; color: rgb(214, 211, 211); font-size: 1em; font-family: "Courier New", Courier, monospace; overflow-x: auto; white-space: pre; margin-bottom: 0px; }
+
+c-code::after { content: "use"; background-color: rgb(102, 102, 102); color: inherit; border-radius: 4px; padding: 0px 0.4rem; font-size: 0.6rem; }
+
+c-code::before { content: ">>"; padding: 0px 5px; font-style: italic; }
+
+c-key { font-size: 0.9rem; color: rgb(204, 102, 255); }
+
+c-message[log-level="error"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(68, 34, 34); color: inherit; }
+
+c-message[log-level="error"]::after { background-color: rgb(204, 67, 67); color: inherit; }
+
+c-message[log-level="warn"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(102, 51, 51); color: inherit; }
+
+c-message[log-level="warn"]::after { background-color: rgb(204, 105, 105); color: inherit; }
+
+c-stack:not(:empty) { content: attr(data-stack); font-family: Verdana, Geneva, Tahoma, sans-serif; position: absolute; top: 100%; right: 0px; display: flex; height: 20px; -webkit-box-align: center; align-items: center; -webkit-box-pack: justify; justify-content: space-between; width: 100vw; background-color: inherit; padding: 0px 5px; box-sizing: border-box; font-size: 0.8rem; color: inherit; }
+
+c-text { padding: 2px 2px 2px 10px; font-family: Verdana, Geneva, Tahoma, sans-serif; overflow: auto; box-sizing: border-box; max-width: 100vw; font-size: 0.9rem; width: 100%; white-space: break-spaces; }
+
+c-text.__c-boolean { color: rgb(130, 80, 177); }
+
+c-text.__c-number { color: rgb(97, 88, 221); }
+
+c-text.__c-symbol { color: rgb(111, 89, 172); }
+
+c-text.__c-function { color: rgb(145, 136, 168); font-family: "Courier New", Courier, monospace; font-size: 0.9rem; }
+
+c-text.__c-function::before { content: "ƒ"; margin: 0px 2px; font-style: italic; color: rgb(153, 153, 255); }
+
+c-text.__c-object, c-text.__c-undefined { color: rgb(118, 163, 118); }
+
+c-text.__c-string { color: rgb(59, 161, 59); }
+
+c-text.__c-string:not(.no-quotes)::before { content: "\""; margin-right: 2px; }
+
+c-text.__c-string:not(.no-quotes)::after { content: "\""; margin-left: 2px; }
+
+c-message.error c-text { overflow: unset; white-space: pre-wrap; word-break: break-word; color: rgb(255, 255, 255); }
+
+c-group { display: none; margin-left: 14px; }
+
+c-type[type="body-toggler"].__show-data + c-group { display: block; }
+
+c-type[type="body-toggler"]::before { display: inline-block; content: "▸"; margin-right: 2.5px; }
+
+c-type[type="body-toggler"]::after { content: "{...}"; }
+
+c-type[type="body-toggler"].__show-data::before { content: "▾"; }
+
+c-type[type="body-toggler"].__show-data::after { display: none; }
+
+c-table { display: table; width: 100%; border-collapse: collapse; border-spacing: 0px; font-size: 0.9rem; color: rgb(214, 211, 211); border: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row { display: table-row; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row:last-child { border-bottom: none; }
+
+c-table c-row:first-child { font-weight: bold; }
+
+c-table c-cell { display: table-cell; padding: 5px; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-cell:not(:last-child) { border-left: 1px solid rgba(204, 204, 204, 0.4); }
+
+@-webkit-keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+
+@keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+------MultipartBoundary--O7LnAlk6V3MkCnVQTCvcUwgtwTs9qKVc45X49bmUSf------
